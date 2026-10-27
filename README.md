@@ -66,15 +66,8 @@ The repository includes `render.yaml` for Render. Create a Render Blueprint from
 
 The server builds the React client and serves it in production. Its health endpoint is available at `/api/health`.
 
-## Demo video outline
-
-Record a short video that demonstrates:
-
-1. Registering a new account and signing in.
-2. Creating assignments with different priorities and due dates.
-3. Searching, filtering, sorting, and editing an assignment’s status.
-4. Using the dashboard to show upcoming, overdue, and completion information.
-5. Deleting an assignment and signing out.
+## Demo video link
+https://drive.google.com/file/d/1roi3mIr2NrKBIi4kN_BfYGLx-dOlD_tP/view?usp=sharing
 
 ## Security notes
 
